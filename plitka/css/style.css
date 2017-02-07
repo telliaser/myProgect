@@ -585,38 +585,40 @@ font: 12px Geometria-Italic,Arial,sans-serif;
 height: 400px;
 }
 .ekran5 div.container div div div  ul li span1{
-background-image: url(../img/logo/vedro.jpg);
-background-repeat: no-repeat;
-margin-left: 0px;
-height:45px;
-height:66px;
+background-image: url(../img/logo/spritesheet.png);
+width: 42px;
+height: 59px;
+background-position: -401px -5px;
 display: block;
 margin-bottom: 30px;
 }
 .ekran5 div.container div div div ul li span2{
-background-image: url(../img/logo/vedro1.jpg);
+background-image: url(../img/logo/spritesheet.png);
 background-repeat: no-repeat;
 margin-left: 0px;
-height:66px;
-width: 66px;
+width: 40px;
+height: 59px;
+background-position: -453px -5px;
 display: block;
 margin-bottom: 30px;
 }
 .ekran5 div.container div div div ul li span3{
-background-image: url(../img/logo/vedro2.jpg);
+background-image: url(../img/logo/spritesheet.png);
 background-repeat: no-repeat;
 margin-left: 0px;
-width:70px;
-height:66px;
+width: 55px;
+height: 53px;
+background-position: -713px -5px;
 display: block;
 margin-bottom: 30px;
 }
 .ekran5 div.container div div div ul li span4{
-background-image: url(../img/logo/vedro3.jpg);
+background-image: url(../img/logo/spritesheet.png);
 background-repeat: no-repeat;
 margin-left: 0px;
-width:70px;
-height:66px;
+width: 51px;
+height: 55px;
+background-position: -778px -5px;
 display: block;
 margin-bottom: 30px;
 }
@@ -977,18 +979,19 @@ float: left;
 	margin:0px 0px 0px 0px;
 }
 #dop_usl li span1 {
-background-image: url(../img/logo/Shape1.jpg) ;
+background-image: url(../img/logo/spritesheet.png) ;
 background-repeat: no-repeat;
-width: 57px;
-height: 50px;
+height: 55px;
+width: 65px;
 display: block;
 margin: 20px 0px 35px 0px;
 }
 #dop_usl li span2 {
-background-image: url(../img/logo/Shape2.jpg) ;
+background-image: url(../img/logo/spritesheet.png) ;
 background-repeat: no-repeat;
 width: 57px;
-height: 60px;
+height: 56px;
+background-position: -72px -5px;
 display: block;
 margin: 20px 0px 25px 0px;
 }
@@ -1113,10 +1116,11 @@ color: #fff;
 	text-align: left;
 }
 .dop_usl2 li span1{
-background-image: url(../img/logo/Shape3.jpg);
+background-image: url(../img/logo/spritesheet.png);
 background-repeat: no-repeat;
 width: 53px;
-height:53px;
+height: 53px;
+background-position: -139px -5px;
 display: block;
 }
 .dop_usl2 li h4{
@@ -1134,19 +1138,20 @@ margin: 20px 0px 20px 0px;
 	margin: 0px 30px 20px 0px;
 }
 .dop_usl2 li span2{
-background-image: url(../img/logo/Shape4.jpg);
+background-image: url(../img/logo/spritesheet.png);
 background-repeat: no-repeat;
-margin: 0px ;
-width: 53px;
-height:53px;
+width: 55px;
+height: 43px;
+background-position: -202px -5px;
 display: block;
 }
 .dop_usl2 li span3{
-background-image: url(../img/logo/Shape5.jpg);
+background-image: url(../img/logo/spritesheet.png);
 background-repeat: no-repeat;
 margin: 0px ;
-width: 53px;
-height:53px;
+width: 54px;
+    height: 54px;
+    background-position: -267px -5px;
 display: block;
 }
 .ekran11{
@@ -1244,28 +1249,30 @@ margin: 120px 5px 20px 10px;
  margin: 50px 0px 0px 0px;
 }
 .container4 ul li span1{
-	height: 67px;
-	width: 60px;
-	background-image: url(../img/logo/vedro11.png);
+	background-image: url(../img/logo/spritesheet.png);
 	background-repeat: no-repeat;
 	display: block;
-	margin: 20px 0px 20px 0px;
+	width: 60px;
+    height: 67px;
+    background-position: -573px -5px;
 }
 .container4 ul li span2{
-	height: 67px;
-	width: 60px;
-	background-image: url(../img/logo/vedro10.png);
+	background-image: url(../img/logo/spritesheet.png);
 	background-repeat: no-repeat;
 	display: block;
-	margin: 20px 0px 20px 0px;
+	width: 60px;
+    height: 60px;
+    background-position: -503px -5px;
 }
 .container4 ul li span3{
 	height: 67px;
 	width: 60px;
-	background-image: url(../img/logo/vedro12.png);
+	background-image: url(../img/logo/spritesheet.png);
 	background-repeat: no-repeat;
 	display: block;
-	margin: 20px 0px 20px 0px;
+	width: 60px;
+    height: 61px;
+    background-position: -643px -5px;
 }
 .ekran14{
 	width: 100%;
